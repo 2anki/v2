@@ -1,0 +1,7 @@
+# The big rewrite
+
+Clean code
+Must be fast
+Must be stable ids that update
+Real time changes in Anki
+Responsive UI with feedback on sync changes
