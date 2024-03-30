@@ -6,7 +6,7 @@
 
 Run the Vite dev server:
 
-```shellscript
+```sh
 npm run dev
 ```
 
